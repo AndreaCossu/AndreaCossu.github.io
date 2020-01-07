@@ -5,12 +5,22 @@
     <link>https://AndreaCossu.github.io/</link>
       <atom:link href="https://AndreaCossu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrea Cossu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2019 12:01:11 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2020 10:26:06 +0100</lastBuildDate>
     <image>
       <url>https://AndreaCossu.github.io/img/icon-192.png</url>
       <title>Andrea Cossu</title>
       <link>https://AndreaCossu.github.io/</link>
     </image>
+    
+    <item>
+      <title>Smart Applications Teaching Assistant</title>
+      <link>https://AndreaCossu.github.io/post/sa-teaching-assistant-2019/</link>
+      <pubDate>Tue, 07 Jan 2020 10:26:06 +0100</pubDate>
+      <guid>https://AndreaCossu.github.io/post/sa-teaching-assistant-2019/</guid>
+      <description>&lt;p&gt;The Smart Applications course, taught by &lt;a href=&#34;http://circe.di.unipi.it/~gervasi/main/&#34;&gt;Prof. Vincenzo Gervasi&lt;/a&gt;, is approaching the end. I had a lot of fun assisting both projects and really hope to see them in action soon 😄&lt;/p&gt;
+&lt;p&gt;Congrats to all students of &lt;strong&gt;Art&lt;/strong&gt; and &lt;strong&gt;Sport&lt;/strong&gt; projects!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Intel Student Ambassador for AI</title>

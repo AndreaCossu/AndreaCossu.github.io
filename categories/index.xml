@@ -5,12 +5,28 @@
     <link>https://AndreaCossu.github.io/categories/</link>
       <atom:link href="https://AndreaCossu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2020 10:26:06 +0100</lastBuildDate>
     <image>
       <url>https://AndreaCossu.github.io/img/icon-192.png</url>
       <title>Categories</title>
       <link>https://AndreaCossu.github.io/categories/</link>
     </image>
+    
+    <item>
+      <title>teaching</title>
+      <link>https://AndreaCossu.github.io/categories/teaching/</link>
+      <pubDate>Tue, 07 Jan 2020 10:26:06 +0100</pubDate>
+      <guid>https://AndreaCossu.github.io/categories/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intel</title>
+      <link>https://AndreaCossu.github.io/categories/intel/</link>
+      <pubDate>Mon, 25 Nov 2019 12:01:11 +0100</pubDate>
+      <guid>https://AndreaCossu.github.io/categories/intel/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

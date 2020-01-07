@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>intel | Andrea Cossu</title>
+    <link>https://AndreaCossu.github.io/categories/intel/</link>
+      <atom:link href="https://AndreaCossu.github.io/categories/intel/index.xml" rel="self" type="application/rss+xml" />
+    <description>intel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2019 12:01:11 +0100</lastBuildDate>
+    <image>
+      <url>https://AndreaCossu.github.io/img/icon-192.png</url>
+      <title>intel</title>
+      <link>https://AndreaCossu.github.io/categories/intel/</link>
+    </image>
+    
+    <item>
+      <title>Intel Student Ambassador for AI</title>
+      <link>https://AndreaCossu.github.io/post/intelstudentambassadorai/</link>
+      <pubDate>Mon, 25 Nov 2019 12:01:11 +0100</pubDate>
+      <guid>https://AndreaCossu.github.io/post/intelstudentambassadorai/</guid>
+      <description>&lt;p&gt;I have been chosen to represent University of Pisa in Intel® Student Ambassador for AI program.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
