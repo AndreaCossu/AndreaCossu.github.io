@@ -5,12 +5,17 @@
     <link>https://AndreaCossu.github.io/authors/andrea/</link>
       <atom:link href="https://AndreaCossu.github.io/authors/andrea/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrea Cossu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2020 10:26:06 +0100</lastBuildDate>
-    <image>
-      <url>https://AndreaCossu.github.io/img/icon-192.png</url>
-      <title>Andrea Cossu</title>
-      <link>https://AndreaCossu.github.io/authors/andrea/</link>
-    </image>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 12:52:50 +0100</lastBuildDate>
+    <item>
+      <title>Il Dilemma dell&#39;Algoritmo - PMI Northern Italy Chapter </title>
+      <link>https://AndreaCossu.github.io/post/pmi_nic_talk/</link>
+      <pubDate>Sat, 01 Feb 2020 12:52:50 +0100</pubDate>
+      <guid>https://AndreaCossu.github.io/post/pmi_nic_talk/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;pmi.jpeg&#34; alt=&#34;PMI-NIC annual meeting&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Me and Paolo Santinello, from &lt;a href=&#34;http://www.klink.it/home.html&#34;&gt;KlinK&lt;/a&gt;, presented a talk at the annual meeting of the Project Management Institute - Northern Italy Chapter. Our talk &lt;em&gt;Il Dilemma dell&amp;rsquo;Algoritmo - questioni etiche e strumenti di IA nei processi decisionali di Project Management&lt;/em&gt; was given in front of more than 300 PMI Project Managers and partners.
+We talked about how Agent Based Modeling can deal with uncertainty and ethics in the context of a specific project, raising the question of accountability of a decision in the presence of multiple options.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Smart Applications Teaching Assistant</title>
