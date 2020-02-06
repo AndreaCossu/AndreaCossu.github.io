@@ -6,6 +6,12 @@
       <atom:link href="https://AndreaCossu.github.io/authors/andrea/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrea Cossu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 12:52:50 +0100</lastBuildDate>
+    <image>
+      <url>https://AndreaCossu.github.io/img/icon-192.png</url>
+      <title>Andrea Cossu</title>
+      <link>https://AndreaCossu.github.io/authors/andrea/</link>
+    </image>
+    
     <item>
       <title>Il Dilemma dell&#39;Algoritmo - PMI Northern Italy Chapter </title>
       <link>https://AndreaCossu.github.io/post/pmi_nic_talk/</link>
