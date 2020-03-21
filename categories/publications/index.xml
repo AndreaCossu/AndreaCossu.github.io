@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>publications | Andrea Cossu</title>
+    <link>https://AndreaCossu.github.io/categories/publications/</link>
+      <atom:link href="https://AndreaCossu.github.io/categories/publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Mar 2020 10:01:42 +0100</lastBuildDate>
+    <image>
+      <url>https://AndreaCossu.github.io/img/icon-192.png</url>
+      <title>publications</title>
+      <link>https://AndreaCossu.github.io/categories/publications/</link>
+    </image>
+    
+    <item>
+      <title>Continual Learning @ IJCNN 2020 </title>
+      <link>https://AndreaCossu.github.io/post/ijcnn2020-paper/</link>
+      <pubDate>Sat, 21 Mar 2020 10:01:42 +0100</pubDate>
+      <guid>https://AndreaCossu.github.io/post/ijcnn2020-paper/</guid>
+      <description>&lt;p&gt;Our new paper &lt;em&gt;Continual Learning with Gated Incremental Memories for Sequential Data Processing&lt;/em&gt; has been accepted for presentation at &lt;a href=&#34;https://wcci2020.org/&#34;&gt;IJCNN 2020&lt;/a&gt;.&lt;br&gt;
+Gated Incremental Memory is a progressive Recurrent Neural Network which is able to learn multiple incoming tasks while at the same time mitigating forgetting of previous knowledge.&lt;br&gt;
+It is a joint work together with &lt;a href=&#34;http://pages.di.unipi.it/bacciu/&#34;&gt;Davide&lt;/a&gt; and &lt;a href=&#34;http://pages.di.unipi.it/carta/&#34;&gt;Antonio&lt;/a&gt;. Yay 😃&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

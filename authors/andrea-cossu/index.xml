@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Andrea Cossu</title>
-    <link>https://AndreaCossu.github.io/publication/</link>
-      <atom:link href="https://AndreaCossu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Andrea Cossu</title>
+    <link>https://AndreaCossu.github.io/authors/andrea-cossu/</link>
+      <atom:link href="https://AndreaCossu.github.io/authors/andrea-cossu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrea Cossu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Mar 2020 10:24:59 +0100</lastBuildDate>
     <image>
       <url>https://AndreaCossu.github.io/img/icon-192.png</url>
-      <title>Publications</title>
-      <link>https://AndreaCossu.github.io/publication/</link>
+      <title>Andrea Cossu</title>
+      <link>https://AndreaCossu.github.io/authors/andrea-cossu/</link>
     </image>
     
     <item>
