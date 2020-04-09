@@ -5,12 +5,22 @@
     <link>https://AndreaCossu.github.io/post/</link>
       <atom:link href="https://AndreaCossu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Mar 2020 10:01:42 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Apr 2020 09:30:18 +0200</lastBuildDate>
     <image>
       <url>https://AndreaCossu.github.io/img/icon-192.png</url>
       <title>Posts</title>
       <link>https://AndreaCossu.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Pre-print of Gated Incremental Memories for Continual Learning is out on arXiv</title>
+      <link>https://AndreaCossu.github.io/post/gim_arxiv/</link>
+      <pubDate>Thu, 09 Apr 2020 09:30:18 +0200</pubDate>
+      <guid>https://AndreaCossu.github.io/post/gim_arxiv/</guid>
+      <description>&lt;p&gt;Our &lt;a href=&#34;https://andreacossu.github.io/publication/ijcnn2020-gim/&#34;&gt;paper&lt;/a&gt; about Continual Learning with Gated Incremental Memories, a progressive recurrent neural network, is available as a pre-print on &lt;a href=&#34;https://andreacossu.github.io/publication/ijcnn2020-gim/&#34;&gt;arXiv!&lt;/a&gt;.&lt;br&gt;
+It has also been accepted at IJCNN 2020.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Continual Learning @ IJCNN 2020 </title>
