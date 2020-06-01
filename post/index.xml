@@ -5,12 +5,22 @@
     <link>https://AndreaCossu.github.io/post/</link>
       <atom:link href="https://AndreaCossu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 May 2020 15:32:01 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 14:17:12 +0200</lastBuildDate>
     <image>
       <url>https://AndreaCossu.github.io/img/icon-192.png</url>
       <title>Posts</title>
       <link>https://AndreaCossu.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>EEML summer school</title>
+      <link>https://AndreaCossu.github.io/post/eeml_summerschool/</link>
+      <pubDate>Mon, 01 Jun 2020 14:17:12 +0200</pubDate>
+      <guid>https://AndreaCossu.github.io/post/eeml_summerschool/</guid>
+      <description>&lt;p&gt;I will participate in the &lt;a href=&#34;https://www.eeml.eu/&#34;&gt;&lt;strong&gt;Eastern European Machine Learning Summer School&lt;/strong&gt;&lt;/a&gt; next July. Even if virtually held, I am sure it will be a stimulating experience, with many important speakers already announced.
+I will present a poster of my recent work on &lt;a href=&#34;https://andreacossu.github.io/publication/ijcnn2020-gim/&#34;&gt;Continual Learning with Gated Incremental Memories&lt;/a&gt;. Hope to see many CL researchers there!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ContinualAI wiki</title>
