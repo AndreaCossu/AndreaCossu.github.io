@@ -5,12 +5,22 @@
     <link>https://AndreaCossu.github.io/post/</link>
       <atom:link href="https://AndreaCossu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 14:17:12 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Sep 2020 09:51:58 +0200</lastBuildDate>
     <image>
       <url>https://AndreaCossu.github.io/img/icon-192.png</url>
       <title>Posts</title>
       <link>https://AndreaCossu.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Chief Scientist of ContinualAI</title>
+      <link>https://AndreaCossu.github.io/post/clai_chief_scientist/</link>
+      <pubDate>Wed, 16 Sep 2020 09:51:58 +0200</pubDate>
+      <guid>https://AndreaCossu.github.io/post/clai_chief_scientist/</guid>
+      <description>&lt;p&gt;I am proud to join &lt;a href=&#34;https://www.continualai.org/research/&#34;&gt;ContinualAI research&lt;/a&gt; as Chief Scientist.&lt;br&gt;
+In addition to the (awesome) &lt;a href=&#34;https://wiki.continualai.org/index.html&#34;&gt;CLAI wiki&lt;/a&gt;, I will help in managing key projects within the community.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>EEML summer school</title>
