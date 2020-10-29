@@ -5,12 +5,22 @@
     <link>https://AndreaCossu.github.io/</link>
       <atom:link href="https://AndreaCossu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrea Cossu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Sep 2020 09:51:58 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Oct 2020 09:26:30 +0100</lastBuildDate>
     <image>
       <url>https://AndreaCossu.github.io/img/icon-192.png</url>
       <title>Andrea Cossu</title>
       <link>https://AndreaCossu.github.io/</link>
     </image>
+    
+    <item>
+      <title>Teaching Machine Learning at Tree</title>
+      <link>https://AndreaCossu.github.io/post/tree-teaching-ml/</link>
+      <pubDate>Thu, 29 Oct 2020 09:26:30 +0100</pubDate>
+      <guid>https://AndreaCossu.github.io/post/tree-teaching-ml/</guid>
+      <description>&lt;p&gt;I will be teaching the Machine Learning module within Data Science (free) course offered by &lt;a href=&#34;https://tree.it/corso-data-science-machine-learning/&#34;&gt;Tree&lt;/a&gt;.
+In the course, we will focus on supervised and unsupervised learning paradigms, with applications to Computer Vision scenarios.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Chief Scientist of ContinualAI</title>
