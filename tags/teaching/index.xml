@@ -5,12 +5,23 @@
     <link>https://AndreaCossu.github.io/tags/teaching/</link>
       <atom:link href="https://AndreaCossu.github.io/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>teaching</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2020 10:26:06 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Nov 2020 16:17:07 +0100</lastBuildDate>
     <image>
       <url>https://AndreaCossu.github.io/img/icon-192.png</url>
       <title>teaching</title>
       <link>https://AndreaCossu.github.io/tags/teaching/</link>
     </image>
+    
+    <item>
+      <title>Neural Networks for high-school students</title>
+      <link>https://AndreaCossu.github.io/post/liceo-gobetti-teaching/</link>
+      <pubDate>Sat, 21 Nov 2020 16:17:07 +0100</pubDate>
+      <guid>https://AndreaCossu.github.io/post/liceo-gobetti-teaching/</guid>
+      <description>&lt;p&gt;I got the opportunity and the pleasure to talk about Neural Networks to students of high-school Liceo Gobetti, Florence.&lt;br&gt;
+These students are starting their journey towards a more detailed understanding of Artificial Intelligence, Machine Learning and all the accomplishments and problems these topics bring into play.&lt;/p&gt;
+&lt;p&gt;Thanks to the &lt;a href=&#34;https://aixia.it/&#34;&gt;Italian Association for Artificial Intelligence&lt;/a&gt; for inviting me to this event!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Smart Applications Teaching Assistant</title>

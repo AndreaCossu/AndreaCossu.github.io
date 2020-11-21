@@ -5,12 +5,23 @@
     <link>https://AndreaCossu.github.io/post/</link>
       <atom:link href="https://AndreaCossu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Oct 2020 09:26:30 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Nov 2020 16:17:07 +0100</lastBuildDate>
     <image>
       <url>https://AndreaCossu.github.io/img/icon-192.png</url>
       <title>Posts</title>
       <link>https://AndreaCossu.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Neural Networks for high-school students</title>
+      <link>https://AndreaCossu.github.io/post/liceo-gobetti-teaching/</link>
+      <pubDate>Sat, 21 Nov 2020 16:17:07 +0100</pubDate>
+      <guid>https://AndreaCossu.github.io/post/liceo-gobetti-teaching/</guid>
+      <description>&lt;p&gt;I got the opportunity and the pleasure to talk about Neural Networks to students of high-school Liceo Gobetti, Florence.&lt;br&gt;
+These students are starting their journey towards a more detailed understanding of Artificial Intelligence, Machine Learning and all the accomplishments and problems these topics bring into play.&lt;/p&gt;
+&lt;p&gt;Thanks to the &lt;a href=&#34;https://aixia.it/&#34;&gt;Italian Association for Artificial Intelligence&lt;/a&gt; for inviting me to this event!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Teaching Machine Learning at Tree</title>
