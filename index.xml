@@ -5,12 +5,22 @@
     <link>https://AndreaCossu.github.io/</link>
       <atom:link href="https://AndreaCossu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrea Cossu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Nov 2020 16:17:07 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Nov 2020 21:30:22 +0100</lastBuildDate>
     <image>
       <url>https://AndreaCossu.github.io/img/icon-192.png</url>
       <title>Andrea Cossu</title>
       <link>https://AndreaCossu.github.io/</link>
     </image>
+    
+    <item>
+      <title>Talk on Evaluation Protocol and Metrics in CL</title>
+      <link>https://AndreaCossu.github.io/post/clai-metrics-talk/</link>
+      <pubDate>Fri, 27 Nov 2020 21:30:22 +0100</pubDate>
+      <guid>https://AndreaCossu.github.io/post/clai-metrics-talk/</guid>
+      <description>&lt;p&gt;I gave a brief talk at the last ContinualAI meetup on Evaluation Protocols and metrics for Continual Learning.&lt;br&gt;
+&lt;a href=&#34;https://www.slideserve.com/andcos/evaluation-protocols-and-metrics-for-continual-learning-powerpoint-ppt-presentation&#34;&gt;Here are my slides&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Neural Networks for high-school students</title>
