@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>continualai | Andrea Cossu</title>
+    <link>https://AndreaCossu.github.io/tags/continualai/</link>
+      <atom:link href="https://AndreaCossu.github.io/tags/continualai/index.xml" rel="self" type="application/rss+xml" />
+    <description>continualai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Mar 2021 15:29:03 +0100</lastBuildDate>
+    <image>
+      <url>https://AndreaCossu.github.io/img/icon-192.png</url>
+      <title>continualai</title>
+      <link>https://AndreaCossu.github.io/tags/continualai/</link>
+    </image>
+    
+    <item>
+      <title>Avalanche: an End-to-End library for Continual Learning</title>
+      <link>https://AndreaCossu.github.io/post/avalanche-alpha/</link>
+      <pubDate>Wed, 10 Mar 2021 15:29:03 +0100</pubDate>
+      <guid>https://AndreaCossu.github.io/post/avalanche-alpha/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/ContinualAI/avalanche&#34;&gt;Avalanche&lt;/a&gt; is a Continual Learning library based on PyTorch.&lt;br&gt;
+The library has been developed within &lt;a href=&#34;https://www.continualai.org/&#34;&gt;ContinualAI&lt;/a&gt; and has now been released to the public.&lt;br&gt;
+You can check out the documentation &lt;a href=&#34;https://avalanche.continualai.org/&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
