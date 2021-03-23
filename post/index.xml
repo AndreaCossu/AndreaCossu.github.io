@@ -5,12 +5,22 @@
     <link>https://AndreaCossu.github.io/post/</link>
       <atom:link href="https://AndreaCossu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Mar 2021 09:15:56 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Mar 2021 17:10:54 +0100</lastBuildDate>
     <image>
       <url>https://AndreaCossu.github.io/img/icon-192.png</url>
       <title>Posts</title>
       <link>https://AndreaCossu.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>New paper on Forgetting in Deep Graph Networks</title>
+      <link>https://AndreaCossu.github.io/post/forgetting_graph_paper/</link>
+      <pubDate>Tue, 23 Mar 2021 17:10:54 +0100</pubDate>
+      <guid>https://AndreaCossu.github.io/post/forgetting_graph_paper/</guid>
+      <description>&lt;p&gt;Our paper on Forgetting in Deep Graph Network is out on &lt;a href=&#34;https://arxiv.org/abs/2103.11750v1&#34;&gt;arXiv&lt;/a&gt;.&lt;br&gt;
+The paper has been accepted at the workshop on Graph Learning Benchmarks, within the 2021 Web Conference (WWW).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New paper on Forgetting in Deep Graph Network</title>
