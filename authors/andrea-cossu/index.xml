@@ -5,12 +5,20 @@
     <link>https://AndreaCossu.github.io/authors/andrea-cossu/</link>
       <atom:link href="https://AndreaCossu.github.io/authors/andrea-cossu/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrea Cossu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Mar 2020 10:24:59 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://AndreaCossu.github.io/img/icon-192.png</url>
       <title>Andrea Cossu</title>
       <link>https://AndreaCossu.github.io/authors/andrea-cossu/</link>
     </image>
+    
+    <item>
+      <title>Catastrophic Forgetting in Deep Graph Networks: An Introductory Benchmark for Graph Classification</title>
+      <link>https://AndreaCossu.github.io/publication/carta-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://AndreaCossu.github.io/publication/carta-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Continual Learning with Gated Incremental Memories for Sequential Data Processing</title>
