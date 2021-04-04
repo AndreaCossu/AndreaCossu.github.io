@@ -5,12 +5,22 @@
     <link>https://AndreaCossu.github.io/authors/andrea/</link>
       <atom:link href="https://AndreaCossu.github.io/authors/andrea/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrea Cossu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Mar 2021 09:15:56 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 04 Apr 2021 09:59:08 +0200</lastBuildDate>
     <image>
       <url>https://AndreaCossu.github.io/img/icon-192.png</url>
       <title>Andrea Cossu</title>
       <link>https://AndreaCossu.github.io/authors/andrea/</link>
     </image>
+    
+    <item>
+      <title>Paper selected for Oral at GLB 2021</title>
+      <link>https://AndreaCossu.github.io/post/oral-glb/</link>
+      <pubDate>Sun, 04 Apr 2021 09:59:08 +0200</pubDate>
+      <guid>https://AndreaCossu.github.io/post/oral-glb/</guid>
+      <description>&lt;p&gt;Our &lt;a href=&#34;https://arxiv.org/abs/2103.11750v1&#34;&gt;recently published paper&lt;/a&gt; has been selected as one of the two oral presentations at the &lt;a href=&#34;https://graph-learning-benchmarks.github.io/&#34;&gt;GLB workshop&lt;/a&gt; within the 2021 WWW conference.&lt;br&gt;
+Glad to see that the study of continual learning with deep graph networks raised the interest of the research community :)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New paper on Forgetting in Deep Graph Network</title>
