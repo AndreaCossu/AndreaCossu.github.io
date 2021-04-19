@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>continual-learning | Andrea Cossu</title>
-    <link>https://AndreaCossu.github.io/categories/continual-learning/</link>
-      <atom:link href="https://AndreaCossu.github.io/categories/continual-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>continual-learning</description>
+    <title>avalanche | Andrea Cossu</title>
+    <link>https://AndreaCossu.github.io/tags/avalanche/</link>
+      <atom:link href="https://AndreaCossu.github.io/tags/avalanche/index.xml" rel="self" type="application/rss+xml" />
+    <description>avalanche</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 09:40:46 +0200</lastBuildDate>
     <image>
       <url>https://AndreaCossu.github.io/img/icon-192.png</url>
-      <title>continual-learning</title>
-      <link>https://AndreaCossu.github.io/categories/continual-learning/</link>
+      <title>avalanche</title>
+      <link>https://AndreaCossu.github.io/tags/avalanche/</link>
     </image>
     
     <item>
@@ -20,14 +20,6 @@
       <description>&lt;p&gt;Our recently released Continual Learning library &lt;a href=&#34;https://avalanche.continualai.org/&#34;&gt;Avalanche&lt;/a&gt; will be presented at the first &lt;a href=&#34;https://pytorchecosystemday.fbreg.com/&#34;&gt;Pytorch Ecosystem Day&lt;/a&gt;.&lt;br&gt;
 We are very excited to introduce the tool to the Pytorch community and to showcase its great functionalities!&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Catastrophic Forgetting in Deep Graph Networks: An Introductory Benchmark for Graph Classification</title>
-      <link>https://AndreaCossu.github.io/publication/carta-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://AndreaCossu.github.io/publication/carta-2021/</guid>
-      <description></description>
     </item>
     
   </channel>
