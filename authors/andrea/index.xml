@@ -5,12 +5,23 @@
     <link>https://AndreaCossu.github.io/authors/andrea/</link>
       <atom:link href="https://AndreaCossu.github.io/authors/andrea/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrea Cossu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 09:43:22 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jun 2021 10:08:25 +0200</lastBuildDate>
     <image>
       <url>https://AndreaCossu.github.io/img/icon-192.png</url>
       <title>Andrea Cossu</title>
       <link>https://AndreaCossu.github.io/authors/andrea/</link>
     </image>
+    
+    <item>
+      <title>CLVision workshop was a success</title>
+      <link>https://AndreaCossu.github.io/post/clvision-event/</link>
+      <pubDate>Mon, 28 Jun 2021 10:08:25 +0200</pubDate>
+      <guid>https://AndreaCossu.github.io/post/clvision-event/</guid>
+      <description>&lt;p&gt;The Continual Learning in Computer Vision (CLVision) workshop at CVPR just ended!&lt;br&gt;
+We livestreamed all the invited talks, panel discussion and best paper posters, for a total of around 8 hours of live stream!&lt;/p&gt;
+&lt;p&gt;You can check the event out on &lt;a href=&#34;https://www.youtube.com/watch?v=QIV3qgOVvDQ&amp;amp;t=541s&#34;&gt;YouTube&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Avalanche at CLVision</title>
