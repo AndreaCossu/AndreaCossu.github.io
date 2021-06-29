@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>andera | Andrea Cossu</title>
+    <link>https://AndreaCossu.github.io/authors/andera/</link>
+      <atom:link href="https://AndreaCossu.github.io/authors/andera/index.xml" rel="self" type="application/rss+xml" />
+    <description>andera</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Jun 2021 12:41:23 +0200</lastBuildDate>
+    <image>
+      <url>https://AndreaCossu.github.io/img/icon-192.png</url>
+      <title>andera</title>
+      <link>https://AndreaCossu.github.io/authors/andera/</link>
+    </image>
+    
+    <item>
+      <title>Continual Learning and Echo State Networks at ESANN</title>
+      <link>https://AndreaCossu.github.io/post/esann-cl-esn/</link>
+      <pubDate>Tue, 29 Jun 2021 12:41:23 +0200</pubDate>
+      <guid>https://AndreaCossu.github.io/post/esann-cl-esn/</guid>
+      <description>&lt;p&gt;Our recent paper on &lt;a href=&#34;https://arxiv.org/abs/2105.07674&#34;&gt;Continual Learning with Echo State Networks&lt;/a&gt; has been accepted as oral at &lt;a href=&#34;https://www.esann.org/&#34;&gt;ESANN&lt;/a&gt; 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
