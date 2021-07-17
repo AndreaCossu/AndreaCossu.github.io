@@ -5,12 +5,21 @@
     <link>https://AndreaCossu.github.io/</link>
       <atom:link href="https://AndreaCossu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrea Cossu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Jun 2021 12:41:23 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 17 Jul 2021 08:56:29 +0200</lastBuildDate>
     <image>
       <url>https://AndreaCossu.github.io/img/icon-192.png</url>
       <title>Andrea Cossu</title>
       <link>https://AndreaCossu.github.io/</link>
     </image>
+    
+    <item>
+      <title>Paper accepted in Neural Networks journal</title>
+      <link>https://AndreaCossu.github.io/post/neural-networks-cl-rnn/</link>
+      <pubDate>Sat, 17 Jul 2021 08:56:29 +0200</pubDate>
+      <guid>https://AndreaCossu.github.io/post/neural-networks-cl-rnn/</guid>
+      <description>&lt;p&gt;Our &lt;a href=&#34;https://arxiv.org/abs/2103.07492&#34;&gt;paper&lt;/a&gt; &lt;em&gt;Continual Learning for Recurrent Neural Networks: an Empirical Evaluation&lt;/em&gt; has been accepted for publication at &lt;em&gt;Neural Networks&lt;/em&gt; journal!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Continual Learning and Echo State Networks at ESANN</title>
@@ -97,6 +106,14 @@ You can check out the documentation &lt;a href=&#34;https://avalanche.continuala
       <link>https://AndreaCossu.github.io/publication/carta-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://AndreaCossu.github.io/publication/carta-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continual Learning for Recurrent Neural Networks: An Empirical Evaluation</title>
+      <link>https://AndreaCossu.github.io/publication/cossu-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://AndreaCossu.github.io/publication/cossu-2021/</guid>
       <description></description>
     </item>
     
